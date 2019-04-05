@@ -1,4 +1,4 @@
-require '/spec/pry_debugging_spec.rb'
+require 'pry'
 
 def plus_two(num)
     num + 2
